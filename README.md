@@ -77,17 +77,7 @@ fun_fact: >
 
 <div align="center">
 
-<!-- Streak — confirmed working ✓ -->
 <img src="https://streak-stats.demolab.com/?user=pamungkasxd02-star&theme=dark&hide_border=true&background=0d0d12&stroke=a78bfa&ring=a78bfa&fire=c4b5fd&currStreakNum=ffffff&sideNums=c4b5fd&currStreakLabel=a78bfa&sideLabels=666677&dates=555566" />
-
-</div>
-
-<div align="center">
-
-<!-- Stats card — muncul di GitHub.com setelah ada commit -->
-<img src="https://github-readme-stats.vercel.app/api?username=pamungkasxd02-star&show_icons=true&hide_border=true&bg_color=0d0d12&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&count_private=true" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamungkasxd02-star&layout=compact&hide_border=true&bg_color=0d0d12&title_color=a78bfa&text_color=c4b5fd" />
 
 </div>
 
