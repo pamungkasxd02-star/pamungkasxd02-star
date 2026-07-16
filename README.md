@@ -36,11 +36,11 @@ stack:
   - Docker + Linux # infra
 
 spirit_animals: 🐦 bird  — free & always exploring
-  🐱 cat   — chill but sharp
+                🐱 cat   — chill but sharp
 
 fun_fact: >
   My code never has bugs, it just develops unexpected features.
-  Also, my AI is the lead reviewer for all my pull requests. 🐱
+  Also, my AI is the lead reviewer for all my pull requests.
 ```
 
   </td>
