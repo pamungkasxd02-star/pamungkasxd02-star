@@ -22,7 +22,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="100%">
 
 ```yaml
 name: Aprilian Hapid Pamungkas
