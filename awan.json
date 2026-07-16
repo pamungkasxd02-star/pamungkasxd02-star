@@ -1,0 +1,27 @@
+{
+  "handle": "pamungkasxd02-star",
+  "name": "Aprilian Hapid Pamungkas",
+  "role": "backend engineer, logic builder",
+  "location": "Indonesia",
+  "stack": "Laravel, PHP & TypeScript",
+  "streak": 2,
+  "song": "chill coding beats",
+  "artist": "lofi hip hop",
+  "lyrics": [
+    "writing code in the quiet night",
+    "fixing bugs until the morning light",
+    "let's go!"
+  ],
+  "output": "assets/awan.gif",
+  "scenes": [
+    { "act": "wave", "say": "hi there! i'm {name}" },
+    { "act": "present", "say": "{role}" },
+    { "act": "stroll", "say": "based in {location}" },
+    { "act": "rocket", "say": "i build things with {stack}" },
+    { "act": "launch", "say": "...and watch 'em fly!" },
+    { "act": "bake", "say": "taking a coffee break" },
+    { "act": "campfire", "say": "currently on a {streak}-day streak" },
+    { "act": "sing" },
+    { "act": "sleep", "say": "time to chill, zzz..." }
+  ]
+}
